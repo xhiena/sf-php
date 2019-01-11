@@ -8,7 +8,7 @@ include("lib/httpful.phar");
 //In Canvas via SignedRequest/POST, the authentication should be passed via the signed_request header
 //You can also use OAuth/GET based flows
 $signedRequest = $_REQUEST['signed_request'];
-$consumer_secret = '6942953739291922585';
+$consumer_secret = 'XXXXXXXXXXXXXXXXXXXXXXXX';
 
 if ($signedRequest == null || $consumer_secret == null) {
    echo "Error: Signed Request or Consumer Secret not found";
