@@ -35,3 +35,4 @@ $consumer_secret = 'XXXXXXXXXXXXXXXXXXXXXXXX';
 </apex:page>
     ```
 11. Save
+12. Go to the page
