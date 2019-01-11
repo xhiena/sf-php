@@ -1,4 +1,4 @@
-#SF-PHP canvas app
+# SF-PHP canvas app
 
 You will need to create a canvas app in salesforce:
 
