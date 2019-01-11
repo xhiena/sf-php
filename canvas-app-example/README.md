@@ -29,10 +29,11 @@ $consumer_secret = 'XXXXXXXXXXXXXXXXXXXXXXXX';
 9. Go to Setup > Build > Develop > Visualforce Pages
 10. Click add
     * Fill the name
-    * ```
+    * use this code: (change testcanvas for the name of you application)
+```
 <apex:page >
     <apex:canvasApp applicationName="testcanvas" scrolling="yes"/>
 </apex:page>
-    ```
+```
 11. Save
 12. Go to the page
